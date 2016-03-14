@@ -7,7 +7,7 @@ namespace ContentConsole
     {
         public override void DoTheProcess()
         {
-            Console.WriteLine("\n\n\nThe Admin Story (Story 2)");
+            Console.WriteLine("\nThe Admin Story (Story 2)");
 
             Console.WriteLine("list of negative words are : " + negativeWords.GetNegativeWordListAsString());
             Console.WriteLine("Do You Want to add a new negative word ? (Yes/No)");
